@@ -1,0 +1,92 @@
+# Smart Kitchen demo user profiles
+# Marker IDs:
+# 0=Chicken, 1=Tomato, 2=Onion, 3=Spices, 4=Rice, 5=Oil, 6=Spoon, 7=Pot, 8=Knife
+
+[Profile]
+Name=Demo User 1
+Age=21
+BluetoothName=DemoDevice1
+BluetoothAddress=
+FavoriteMeals=Chicken Rice Bowl, Healthy Chicken Dish
+FavoriteRecipes=Chicken Rice Bowl, Healthy Chicken Dish
+Dislikes=Too much spice, excess oil
+BlockedMarkers=5
+AccentTheme=Blue
+WelcomeMessage=Welcome Demo User 1! Low-oil meals are ready for you.
+Bio=Demo profile for testing personalized cooking features.
+
+[Profile]
+Name=Demo User 2
+Age=21
+BluetoothName=DemoDevice2
+BluetoothAddress=
+FavoriteMeals=Tomato Rice, Chicken with Tomato
+FavoriteRecipes=Tomato Rice, Chicken with Tomato
+Dislikes=Spicy food
+BlockedMarkers=3
+AccentTheme=Purple
+WelcomeMessage=Welcome Demo User 2! Spices are hidden because spicy food is disabled.
+Bio=Demo profile with mild-flavor preferences.
+
+[Profile]
+Name=Demo User 3
+Age=23
+BluetoothName=DemoDevice3
+BluetoothAddress=
+FavoriteMeals=Chicken Soup, Healthy Chicken Dish
+FavoriteRecipes=Chicken Soup, Healthy Chicken Dish
+Dislikes=Tomato
+BlockedMarkers=1
+AccentTheme=Coral
+WelcomeMessage=Welcome Demo User 3! Tomato-based suggestions are reduced for you.
+Bio=Demo profile with soup and simple-ingredient preferences.
+
+[Profile]
+Name=Demo User 4
+Age=22
+BluetoothName=DemoDevice4
+BluetoothAddress=
+FavoriteMeals=Coffee, Pasta, Chicken Wrap
+FavoriteRecipes=Quick Pasta, Chicken Wrap
+Dislikes=Heavy spicy food
+BlockedMarkers=3
+AccentTheme=Green
+WelcomeMessage=Welcome Demo User 4! Your quick meals are ready.
+Bio=Demo profile for fast cooking meals and coffee recipes.
+
+[Profile]
+Name=Demo User 5
+Age=22
+BluetoothName=DemoDevice5
+BluetoothAddress=
+FavoriteMeals=Healthy Salad, Rice Bowl
+FavoriteRecipes=Healthy Salad, Rice Bowl
+Dislikes=Too much oil
+BlockedMarkers=5
+AccentTheme=Orange
+WelcomeMessage=Welcome Demo User 5! Healthy mode activated.
+Bio=Demo profile with low-oil and balanced-meal preferences.
+
+# Additional demo roles
+
+[DemoChef]
+Name=Demo Chef
+Role=Chef
+AccentTheme=coral
+WelcomeMessage=Welcome Demo Chef!
+Bio=Demo chef dashboard: recipes, steps, and ingredient control.
+FavoriteMeals=Chef Special,Healthy Bowl
+FavoriteRecipes=Tomato Rice,Chicken Rice
+Dislikes=
+BlockedMarkers=
+
+[DemoClient]
+Name=Demo Client
+Role=Client
+AccentTheme=blue
+WelcomeMessage=Welcome Demo Client!
+Bio=Demo client dashboard: calories, health score, and meal suggestions.
+FavoriteMeals=Healthy Bowl,Light Salad
+FavoriteRecipes=Light Salad,Tomato Rice
+Dislikes=
+BlockedMarkers=8
