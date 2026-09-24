@@ -1,0 +1,11 @@
+# Face role mapping. Existing people without a role default to Chef.
+ABDO=Chef
+ADEL=Chef
+ADHAM=Chef
+AHMED=Client
+BELE=Chef
+BESSO=Chef
+DOMZ=Client
+MICHAELL=Chef
+NAEL=Chef
+YAYA=Chef

@@ -1,0 +1,2 @@
+Name=TABLET-46G7L39F;Address=B8:9A:2A:63:03:0C;Source=PyBluez
+Name=LAPTOP-1JKCIFT9;Address=E4:C7:67:7F:3D:2E;Source=PyBluez

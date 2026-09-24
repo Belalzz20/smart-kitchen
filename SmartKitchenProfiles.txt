@@ -1,0 +1,189 @@
+﻿# Smart Kitchen user profiles
+# Marker IDs:
+# 0=Chicken, 1=Tomato, 2=Onion, 3=Spices, 4=Rice, 5=Oil, 6=Spoon, 7=Pot, 8=Knife
+
+[Profile]
+Name=Belal Hesham
+Age=21
+BluetoothName=Belal
+BluetoothAddress=
+FavoriteMeals=Chicken Rice Bowl, Healthy Chicken Dish
+FavoriteRecipes=Chicken Rice Bowl, Healthy Chicken Dish
+Dislikes=Too much spice, excess oil
+BlockedMarkers=5
+AccentTheme=Blue
+WelcomeMessage=Welcome Ahmed! Low-oil meals are ready for you.
+Bio=Gym user who likes high protein meals and balanced calories.
+
+[Profile]
+Name=Abdelrahman Mohamed
+Age=21
+BluetoothName=AL3bood_1bas
+BluetoothAddress=8C:6A:3B:56:B3:C4
+FavoriteMeals=Tomato Rice, Chicken with Tomato
+FavoriteRecipes=Tomato Rice, Chicken with Tomato
+Dislikes=Spicy food
+BlockedMarkers=3
+AccentTheme=Purple
+WelcomeMessage=Welcome Abdelrahman! Spices are hidden because you do not like spicy food.
+Bio=Prefers mild flavors and colorful healthy dishes.
+
+[Profile]
+Name=Mohamed Bassiouni
+Age=23
+BluetoothName=Besso
+BluetoothAddress=
+FavoriteMeals=Chicken Soup, Healthy Chicken Dish
+FavoriteRecipes=Chicken Soup, Healthy Chicken Dish
+Dislikes=Tomato
+BlockedMarkers=1
+AccentTheme=Coral
+WelcomeMessage=Welcome Youssef! Tomato-based suggestions are reduced for you.
+Bio=Prefers warm soup meals and simple ingredients.
+
+[Profile]
+Name=Ahmed Elsharkawy
+Age=22
+BluetoothName=SHARK
+BluetoothAddress=
+FavoriteMeals=Coffee, Pasta, Chicken Wrap
+FavoriteRecipes=Quick Pasta, Chicken Wrap
+Dislikes=Heavy spicy food
+BlockedMarkers=3
+AccentTheme=Green
+WelcomeMessage=Welcome Ahmed! Your quick meals are ready.
+Bio=Prefers fast cooking meals and coffee recipes.
+
+[Profile]
+Name=Mohamed Adel
+Age=22
+BluetoothName=MohamedAdel
+BluetoothAddress=
+FavoriteMeals=Healthy Salad, Rice Bowl
+FavoriteRecipes=Healthy Salad, Rice Bowl
+Dislikes=Too much oil
+BlockedMarkers=5
+AccentTheme=Orange
+WelcomeMessage=Welcome Mohamed Adel! Healthy mode activated.
+Bio=Prefers healthy low-oil dishes and balanced meals.
+[Abdelrahman]
+Name=Abdelrahman
+Role=Chef
+AccentTheme=coral
+WelcomeMessage=Welcome Abdelrahman (Chef)!
+Bio=Chef dashboard: recipes, steps, and ingredient control.
+FavoriteMeals=Chef Special,Healthy Bowl
+FavoriteRecipes=Tomato Rice,Chicken Rice
+Dislikes=
+BlockedMarkers=
+
+[ABDO]
+Name=ABDO
+Role=Client
+AccentTheme=blue
+WelcomeMessage=Welcome ABDO (Client)!
+Bio=Client dashboard: calories, health score, and meal suggestions.
+FavoriteMeals=Healthy Bowl,Light Salad
+FavoriteRecipes=Light Salad,Tomato Rice
+Dislikes=
+BlockedMarkers=8
+
+[ADHAM]
+Name=ADHAM
+Role=Chef
+AccentTheme=coral
+WelcomeMessage=Welcome ADHAM (Chef)!
+Bio=Chef dashboard: recipes, steps, and ingredient control.
+FavoriteMeals=Chef Special,Healthy Bowl
+FavoriteRecipes=Tomato Rice,Chicken Rice
+Dislikes=
+BlockedMarkers=
+
+[YAYA]
+Name=YAYA
+Role=Chef
+AccentTheme=coral
+WelcomeMessage=Welcome YAYA (Chef)!
+Bio=Chef dashboard: recipes, steps, and ingredient control.
+FavoriteMeals=Chef Special,Healthy Bowl
+FavoriteRecipes=Tomato Rice,Chicken Rice
+Dislikes=
+BlockedMarkers=
+
+[MICHAELL]
+Name=MICHAELL
+Role=Chef
+AccentTheme=coral
+WelcomeMessage=Welcome MICHAELL (Chef)!
+Bio=Chef dashboard: recipes, steps, and ingredient control.
+FavoriteMeals=Chef Special,Healthy Bowl
+FavoriteRecipes=Tomato Rice,Chicken Rice
+Dislikes=
+BlockedMarkers=
+
+[BELE]
+Name=BELE
+Role=Chef
+AccentTheme=coral
+WelcomeMessage=Welcome BELE (Chef)!
+Bio=Chef dashboard: recipes, steps, and ingredient control.
+FavoriteMeals=Chef Special,Healthy Bowl
+FavoriteRecipes=Tomato Rice,Chicken Rice
+Dislikes=
+BlockedMarkers=
+
+[NAEL]
+Name=NAEL
+Role=Chef
+AccentTheme=coral
+WelcomeMessage=Welcome NAEL (Chef)!
+Bio=Chef dashboard: recipes, steps, and ingredient control.
+FavoriteMeals=Chef Special,Healthy Bowl
+FavoriteRecipes=Tomato Rice,Chicken Rice
+Dislikes=
+BlockedMarkers=
+
+[DOMZ]
+Name=DOMZ
+Role=Client
+AccentTheme=blue
+WelcomeMessage=Welcome DOMZ (Client)!
+Bio=Client dashboard: calories, health score, and meal suggestions.
+FavoriteMeals=Healthy Bowl,Light Salad
+FavoriteRecipes=Light Salad,Tomato Rice
+Dislikes=
+BlockedMarkers=8
+
+[BESSO]
+Name=BESSO
+Role=Chef
+AccentTheme=coral
+WelcomeMessage=Welcome BESSO (Chef)!
+Bio=Chef dashboard: recipes, steps, and ingredient control.
+FavoriteMeals=Chef Special,Healthy Bowl
+FavoriteRecipes=Tomato Rice,Chicken Rice
+Dislikes=
+BlockedMarkers=
+
+[AHMED]
+Name=AHMED
+Role=Client
+AccentTheme=blue
+WelcomeMessage=Welcome AHMED (Client)!
+Bio=Client dashboard: calories, health score, and meal suggestions.
+FavoriteMeals=Healthy Bowl,Light Salad
+FavoriteRecipes=Light Salad,Tomato Rice
+Dislikes=
+BlockedMarkers=8
+
+[ADEL]
+Name=ADEL
+Role=Chef
+AccentTheme=coral
+WelcomeMessage=Welcome ADEL (Chef)!
+Bio=Chef dashboard: recipes, steps, and ingredient control.
+FavoriteMeals=Chef Special,Healthy Bowl
+FavoriteRecipes=Tomato Rice,Chicken Rice
+Dislikes=
+BlockedMarkers=
+
